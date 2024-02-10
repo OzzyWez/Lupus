@@ -1,4 +1,6 @@
-﻿namespace Lupus
+﻿using Lupus.Data;
+
+namespace Lupus
 {
     public partial class MainPage : ContentPage
     {
@@ -7,6 +9,7 @@
         public MainPage()
         {
             InitializeComponent();
+            Database database = new();
         }
 
         private void OnCounterClicked(object sender, EventArgs e)
