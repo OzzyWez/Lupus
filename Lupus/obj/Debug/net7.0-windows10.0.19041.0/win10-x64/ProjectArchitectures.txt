@@ -1,0 +1,1 @@
+C:\Users\user\Source\Repos\Lupus\Lupus\Lupus.csproj;x64
