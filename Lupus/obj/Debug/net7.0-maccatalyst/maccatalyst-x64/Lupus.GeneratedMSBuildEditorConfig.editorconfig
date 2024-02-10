@@ -12,29 +12,29 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lupus
-build_property.ProjectDir = C:\Users\user\Source\Repos\Lupus\Lupus\
+build_property.ProjectDir = C:\Users\user\Documents\GitHub\Lupus\Lupus\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/user/Source/Repos/Lupus/Lupus/App.xaml]
+[C:/Users/user/Documents/GitHub/Lupus/Lupus/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lupus.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/user/Source/Repos/Lupus/Lupus/MainPage.xaml]
+[C:/Users/user/Documents/GitHub/Lupus/Lupus/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lupus.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/user/Source/Repos/Lupus/Lupus/Resources/Styles/Colors.xaml]
+[C:/Users/user/Documents/GitHub/Lupus/Lupus/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lupus.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/user/Source/Repos/Lupus/Lupus/Resources/Styles/Styles.xaml]
+[C:/Users/user/Documents/GitHub/Lupus/Lupus/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lupus.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
